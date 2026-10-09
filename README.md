@@ -242,4 +242,4 @@ This repository serves as the official landing page for Unreal Engine (UDK). The
 **Get the most recent version of Unreal Engine (UDK) today!**
 
 ---
-**Last updated:** 2026-10-08 21:49:57 UTC
+**Last updated:** 2026-10-09 01:30:19 UTC
